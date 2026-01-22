@@ -19,7 +19,7 @@ Practice key Python skills:
 OBS:
   This is your file to practice and customize.
   Find the TODO comments, and as you complete each task, remove the TODO note.
-  TODO: Make all your files start with your name or alias in the filename
+
 
 
 """
@@ -78,10 +78,7 @@ def write_text_file(path: Path, content: str) -> None:
 
 
 def create_files_from_numeric_range() -> None:
-    # TODO: Create a file for each year in the range 2023 to 2026 inclusive.
-    # TODO: Change the docstring, variable names, code, and log messages accordingly.
-    # TODO: Change the filename format to start with your name or alias.
-    # TODO: Customize the content of each created file.
+
     """Create one file per quarter for a given inclusive quarter range.
 
     Arguments: None
@@ -118,10 +115,7 @@ def create_files_from_numeric_range() -> None:
 
 
 def create_files_from_list() -> None:
-    # TODO: Create a file for each item in a list (do not use pets).
-    # TODO: Change the docstring, variable names, code, and log messages accordingly.
-    # TODO: Change the filename format to start with your name or alias.
-    # TODO: Customize the content of each created file.
+
     """Create files based on a list of pet names.
 
     Arguments: None
@@ -157,10 +151,7 @@ def create_files_from_list() -> None:
 
 
 def create_files_using_list_comprehension() -> None:
-    # TODO: Create a file for each item in a new list you transformed USING A LIST COMPREHENSION (do not use pets).
-    # TODO: Change the docstring, variable names, code, and log messages accordingly.
-    # TODO: Change the filename format to start with your name or alias.
-    # TODO: Customize the content of each created file.
+
     """Create files by transforming names using list comprehension.
 
     Arguments: None
@@ -204,9 +195,7 @@ def create_files_using_list_comprehension() -> None:
 
 
 def create_files_periodically() -> None:
-    # TODO: Create at least 5 files and less than 25 files with a delay between each creation.
-    # TODO: Change the filename format to start with your name or alias.
-    # TODO: Customize the content of each created file.
+
     """Create a small number of files with a delay between each creation.
 
     Arguments: None
